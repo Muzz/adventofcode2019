@@ -1,0 +1,6 @@
+target
+
+## Intellij Idea project configuration files
+.idea/
+*.exe
+*.pdb
